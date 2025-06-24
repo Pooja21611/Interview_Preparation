@@ -1,0 +1,14 @@
+# Ignore Java compiled class files
+*.class
+
+# Ignore common VS Code build/output folders
+/bin/
+/out/
+/build/
+
+# VS Code project settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
